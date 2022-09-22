@@ -1,0 +1,112 @@
+{
+  json: {
+    extra: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    text: ''
+  },
+  text: '',
+  extra: [
+    ChatMessage {
+      json: [Object],
+      text: 'X',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      text: ': -1126     ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      text: 'Y',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      text: ': 65     ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      text: 'Z',
+      bold: true,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      text: ': 616     ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      text: '⇑ ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    },
+    ChatMessage {
+      json: [Object],
+      text: 'WEST ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'white'
+    },
+    ChatMessage {
+      json: [Object],
+      text: '⇑  ',
+      bold: undefined,
+      italic: undefined,
+      underlined: undefined,
+      strikethrough: undefined,
+      obfuscated: undefined,
+      color: 'aqua'
+    }
+  ],
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
+----------------
